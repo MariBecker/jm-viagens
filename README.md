@@ -4,5 +4,5 @@ JM viagens foi um projeto desenvolvido com HTML. O objetivo desse projeto foi tr
 
 :heavy_check_mark: Foi utilizado um texto padrão em latim para compor o site;
 
-:heavy_check_mark: Construido apenas HTML.
+:heavy_check_mark: Construido apenas com HTML.
 
